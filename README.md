@@ -3,7 +3,7 @@ Basic git template directory using [git hooks](https://git-scm.com/book/en/v2/Cu
 - Adds post-checkout, post commit, post-merge, and post-rewrite hooks
 - Also has a template for `info/exclude`, which contains only excludes for files created by this template
 
-To make this the default templte for the current user: `git config init.templateDir /path/to/repository/git-template`
+To make this the default templte for the current user: `git config init.templateDir /path/to/repository/git-template/`
 - Then, upon initializing or cloning a repository, the contents of info and hooks directories should be replaced with the contents of the git-template/ in this repository
 - [Documentation on git template directories](https://git-scm.com/docs/git-init#_template_directory)
 
