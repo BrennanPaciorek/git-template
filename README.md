@@ -8,3 +8,4 @@ To make this the default templte for the current user: `git config init.template
 - [Documentation on git template directories](https://git-scm.com/docs/git-init#_template_directory)
 
 These hooks were copied from an article titled [Getting started with Ctags with Vim and Git by Aaron Young](https://geekdude.github.io/tech/ctags/), but are likely to change as I improve my workflow.
+
